@@ -1,0 +1,26 @@
+.header {
+  text-align: center; 
+  padding: 5px; 
+  border: 3px solid black; 
+  background-color: aqua;
+}
+
+.column {
+  float: left; 
+  width: 33.33%; 
+}
+
+.rowsafter {
+  float: left; 
+  width: 33.33%;
+  text-align: center;
+  display: table;
+}
+
+.footer {
+  text-align: center; 
+  clear:both; 
+  border:  5px dotted darkviolet; 
+  padding: 5px;
+  background-color: aqua; 
+}
